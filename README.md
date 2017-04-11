@@ -1,2 +1,2 @@
 # ProtractorPerf
-Example of using ProtractorPerf module
+Sample of using ProtractorPerf
